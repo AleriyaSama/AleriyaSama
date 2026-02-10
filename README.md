@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-- 🏗 Owner of **vSRO.ORG** (Silkroad Online Community & Forum)
+- 🏗 Administrator of **vSRO.ORG** (Silkroad Online Community & Forum)
 - 💻 Developer (Node.js, SQL, C++, Automation Systems)
 - 🛡 Security & Systems Enthusiast
 - 🎮 Game Server & Private Server Infrastructure Builder
